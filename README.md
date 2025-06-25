@@ -1,6 +1,7 @@
 # 📝 DevBlog - A MERN Stack Blogging Platform
+👤 Developed by Md.Mahadi Hasan
 
-DevBlog হল একটি ফুল-স্ট্যাক ব্লগিং প্ল্যাটফর্ম, যেখানে ইউজাররা ব্লগ পড়তে, ফিল্টার করতে, কমেন্ট করতে এবং উইশলিস্টে রাখতে পারে। এতে রয়েছে Firebase Authentication, JWT সিকিউরিটি, ব্লগ ক্রিয়েশন, সার্চ, ফিল্টারিং, এবং আরও অনেক কিছু।
+DevBlog is a full-stack blogging platform where users can read blogs, filter by category, comment, and add blogs to their wishlist. It features Firebase Authentication, JWT security, blog creation, search functionality, filtering options, and many more features.
 
 ## 🌐 Live Site
 🔗 [Visit DevBlog](https://blog-website-9cf78.web.app/)
